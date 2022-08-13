@@ -25,7 +25,7 @@ Please adhere to this project's `code of conduct`.
 
 Launching Minecraft:
 ```csharp
-using SunCore_Ultralight.MCLauncher;
+using SunCore.Ultralight.MCLauncher;
 
 Launcher.Launch("1.18.2", "Player", 1024, new MinecraftPath(), false, "GameLauncherName", 1280, 720, "play.sunrisenw.com", 25565);
 
