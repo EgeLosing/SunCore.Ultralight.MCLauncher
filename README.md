@@ -11,6 +11,14 @@ SunCore is a library for Minecraft Launchers that uses CmlLib.Core and removes h
 - No more hard-coding to Launch Minecraft.
 - Offline Authentication
 - Microsoft Authentication coming soon.
+
+## Installation
+
+Install SunCore Ultralight with nuget
+
+```bash
+dotnet add package SunCore.Ultralight.MCLauncher --version 1.0.0
+```
     
 ## Contributing
 
