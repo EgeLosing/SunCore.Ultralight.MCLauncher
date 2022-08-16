@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.2.32630.192
+VisualStudioVersion = 17.3.32804.467
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SunCore.Ultralight.MCLauncher", "SunCore.Ultralight.MCLauncher\SunCore.Ultralight.MCLauncher.csproj", "{BCD9822E-2745-4C62-9BE5-9E2CA64711C5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SunCore.Ultralight.MCLauncher", "SunCore.Ultralight.MCLauncher\SunCore.Ultralight.MCLauncher.csproj", "{0B7D909F-9F31-4E8C-92AF-8C89D96C3E9D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{BCD9822E-2745-4C62-9BE5-9E2CA64711C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BCD9822E-2745-4C62-9BE5-9E2CA64711C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BCD9822E-2745-4C62-9BE5-9E2CA64711C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BCD9822E-2745-4C62-9BE5-9E2CA64711C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B7D909F-9F31-4E8C-92AF-8C89D96C3E9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B7D909F-9F31-4E8C-92AF-8C89D96C3E9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B7D909F-9F31-4E8C-92AF-8C89D96C3E9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B7D909F-9F31-4E8C-92AF-8C89D96C3E9D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {1F2EB3CE-0944-40EC-8CF4-85EA3B30816F}
+		SolutionGuid = {6B070953-4F88-491C-AD34-59E218A94687}
 	EndGlobalSection
 EndGlobal

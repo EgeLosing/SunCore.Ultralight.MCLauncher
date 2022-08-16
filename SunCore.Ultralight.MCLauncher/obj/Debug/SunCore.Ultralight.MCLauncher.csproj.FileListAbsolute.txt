@@ -1,0 +1,15 @@
+C:\Users\egeef\source\repos\suncore\SunCore.Ultralight.MCLauncher\SunCore.Ultralight.MCLauncher\bin\Debug\SunCore.Ultralight.MCLauncher.dll
+C:\Users\egeef\source\repos\suncore\SunCore.Ultralight.MCLauncher\SunCore.Ultralight.MCLauncher\bin\Debug\SunCore.Ultralight.MCLauncher.pdb
+C:\Users\egeef\source\repos\suncore\SunCore.Ultralight.MCLauncher\SunCore.Ultralight.MCLauncher\bin\Debug\CmlLib.dll
+C:\Users\egeef\source\repos\suncore\SunCore.Ultralight.MCLauncher\SunCore.Ultralight.MCLauncher\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\egeef\source\repos\suncore\SunCore.Ultralight.MCLauncher\SunCore.Ultralight.MCLauncher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\egeef\source\repos\suncore\SunCore.Ultralight.MCLauncher\SunCore.Ultralight.MCLauncher\bin\Debug\SevenZip.dll
+C:\Users\egeef\source\repos\suncore\SunCore.Ultralight.MCLauncher\SunCore.Ultralight.MCLauncher\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\egeef\source\repos\suncore\SunCore.Ultralight.MCLauncher\SunCore.Ultralight.MCLauncher\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\egeef\source\repos\suncore\SunCore.Ultralight.MCLauncher\SunCore.Ultralight.MCLauncher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\egeef\source\repos\suncore\SunCore.Ultralight.MCLauncher\SunCore.Ultralight.MCLauncher\bin\Debug\SevenZip.xml
+C:\Users\egeef\source\repos\suncore\SunCore.Ultralight.MCLauncher\SunCore.Ultralight.MCLauncher\obj\Debug\SunCore.Ultralight.MCLauncher.csproj.AssemblyReference.cache
+C:\Users\egeef\source\repos\suncore\SunCore.Ultralight.MCLauncher\SunCore.Ultralight.MCLauncher\obj\Debug\SunCore.Ultralight.MCLauncher.csproj.CoreCompileInputs.cache
+C:\Users\egeef\source\repos\suncore\SunCore.Ultralight.MCLauncher\SunCore.Ultralight.MCLauncher\obj\Debug\SunCore.Ultralight.MCLauncher.csproj.CopyComplete
+C:\Users\egeef\source\repos\suncore\SunCore.Ultralight.MCLauncher\SunCore.Ultralight.MCLauncher\obj\Debug\SunCore.Ultralight.MCLauncher.dll
+C:\Users\egeef\source\repos\suncore\SunCore.Ultralight.MCLauncher\SunCore.Ultralight.MCLauncher\obj\Debug\SunCore.Ultralight.MCLauncher.pdb

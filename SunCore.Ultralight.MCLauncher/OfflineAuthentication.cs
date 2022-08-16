@@ -5,16 +5,9 @@ namespace SunCore.Ultralight.MCLauncher
 {
     public class OfflineAuthentication
     {
-        public OfflineAuthentication(string Username)
+        public MSession Get(string Username)
         {
-            Set(Username);
-        }
-
-        public MSession session;
-
-        private void Set(String username)
-        {
-            session = MSession.GetOfflineSession(username);
+            return MSession.GetOfflineSession(Username);
         }
     }
 }

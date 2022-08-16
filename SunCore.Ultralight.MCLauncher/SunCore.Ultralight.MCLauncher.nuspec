@@ -2,15 +2,15 @@
 <package >
   <metadata>
     <id>SunCore.Ultralight.MCLauncher</id>
-    <version>1.0</version>
+    <version>1.0.1</version>
     <title>SunCore.Ultralight.MCLauncher</title>
     <authors>EgeLosing</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="expression">MIT</license>
     <icon>icon.png</icon>
-    <projectUrl>https://github.com/EgeLosing/SunCore</projectUrl>
+    <projectUrl>https://github.com/EgeLosing/SunCore.Ultralight.MCLauncher</projectUrl>
     <description>SunCore.Ultralight.MCLauncher is a library for Minecraft Launchers that uses CmlLib.Core handles hard-code process with a single Launching function.</description>
-    <releaseNotes>Added Launching functions, Offline Authenticator</releaseNotes>
+    <releaseNotes>Fixed bugs.</releaseNotes>
     <copyright>Copyright © SUNRISE NETWORK 2022</copyright>
     <tags>Minecraft Launcher</tags>
   </metadata>

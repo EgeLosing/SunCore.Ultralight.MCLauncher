@@ -1,12 +1,11 @@
-﻿using System;
+﻿using CmlLib.Core;
+using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Data;
 using System.IO;
-using CmlLib.Core;
+using System.Text;
 
-namespace SunCore_Ultralight.MCLauncher.VersionManagement.Custom
+namespace SunCore.Ultralight.MCLauncher.VersionManagement.Custom
 {
     public static class AddCustomVersion
     {
